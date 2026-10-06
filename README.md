@@ -10,15 +10,13 @@
 
 <img src="https://skillicons.dev/icons?i=py,ts,java,elixir,nodejs,nextjs,react,fastapi,postgres,mongodb,redis,docker,aws,azure&perline=14" width="100%" alt="Python, TypeScript, Java, Elixir, Node.js, Next.js, React, FastAPI, PostgreSQL, MongoDB, Redis, Docker, AWS, Azure">
 
-<br><br>
+<br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><img src="assets/experience-light.svg" width="100%" alt="Experience. KLJ Resources, ML and AI intern, 2024. Akto.io, software engineering intern, 2025. Mirfa IBC, software engineering intern, 2026. Intelgrader, software engineer, 2026 to now."></picture>
 
-<br><br>
+<br>
 
 <a href="https://github.com/akto-api-security/akto/commits?author=soumilsuri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/akto-dark.svg"><img src="assets/akto-light.svg" width="100%" alt="Open source. Akto, an open source API security platform: 50+ pull requests merged. I built the event archival system and the MCP dashboard APIs."></picture></a>
-
-<br><br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-title-dark.svg"><img src="assets/projects-title-light.svg" width="100%" alt="Selected projects"></picture>
 
