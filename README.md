@@ -16,7 +16,7 @@
 
 <br>
 
-<a href="https://github.com/akto-api-security/akto/commits?author=soumilsuri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/akto-dark.svg"><img src="assets/akto-light.svg" width="100%" alt="Open source. Akto, an open source API security platform: 50+ pull requests merged. I built the event archival system and the MCP dashboard APIs."></picture></a>
+<a href="https://github.com/akto-api-security/akto/pulls?q=is%3Apr+state%3Aclosed+author%3Asoumilsuri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/akto-dark.svg"><img src="assets/akto-light.svg" width="100%" alt="Open source. Akto, an open source API security platform: 50+ pull requests merged. I built the event archival system and the MCP dashboard APIs."></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-title-dark.svg"><img src="assets/projects-title-light.svg" width="100%" alt="Selected projects"></picture>
 
