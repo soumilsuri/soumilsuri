@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img">
+  <line x1="8" y1="6" x2="368" y2="6" stroke="#3d444d" stroke-width="1.5"/>
+  <text x="8" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#ff5a36">01</text>
+  <g transform="translate(334,22)" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="34" height="13" rx="3"/><rect x="0" y="19" width="34" height="13" rx="3"/><path d="M7 6.5h.01M7 25.5h.01M14 6.5h13M14 25.5h13"/></g>
+  <text x="8" y="108" font-family="Georgia,'Times New Roman',serif" font-size="32" fill="#f0f6fc">Backend Engineering</text>
+  <text x="8" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#9198a1">APIs, data pipelines and</text>
+  <text x="8" y="172" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#9198a1">real-time systems</text>
+  <line x1="418" y1="6" x2="778" y2="6" stroke="#3d444d" stroke-width="1.5"/>
+  <text x="418" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#ff5a36">02</text>
+  <g transform="translate(744,22)" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 0c1.6 9 6 13.4 15 15-9 1.6-13.4 6-15 15-1.6-9-6-13.4-15-15 9-1.6 13.4-6 15-15z"/></g>
+  <text x="418" y="108" font-family="Georgia,'Times New Roman',serif" font-size="32" fill="#f0f6fc">AI-Native Development</text>
+  <text x="418" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#9198a1">LLM pipelines with evals,</text>
+  <text x="418" y="172" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#9198a1">guardrails and cost control</text>
+  <line x1="828" y1="6" x2="1188" y2="6" stroke="#3d444d" stroke-width="1.5"/>
+  <text x="828" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#ff5a36">03</text>
+  <g transform="translate(1154,22)" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="17" cy="5" r="5"/><circle cx="5" cy="27" r="5"/><circle cx="29" cy="27" r="5"/><path d="M14.500 9.500 7.500 22.500M19.500 9.500l7 13M10 27h14"/></g>
+  <text x="828" y="108" font-family="Georgia,'Times New Roman',serif" font-size="32" fill="#f0f6fc">Agentic Development</text>
+  <text x="828" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#9198a1">Tool-calling agents with</text>
+  <text x="828" y="172" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#9198a1">memory and orchestration</text>
+</svg>
