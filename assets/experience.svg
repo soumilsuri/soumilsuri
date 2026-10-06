@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 150" width="960" height="150" role="img">
+  <defs>
+    <linearGradient id="bgx" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="acx" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="148" rx="14" fill="url(#bgx)" stroke="#334155" stroke-width="1.5"/>
+  <line x1="44" y1="42" x2="916" y2="42" stroke="#475569" stroke-width="2"/>
+  <circle cx="50" cy="42" r="6" fill="#0f172a" stroke="#2dd4bf" stroke-width="3"/>
+  <text x="44" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">Intelgrader</text>
+  <text x="44" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#cbd5e1">Software Engineer</text>
+  <text x="44" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#5eead4">Aug 2026 · Present</text>
+  <circle cx="276" cy="42" r="6" fill="#0f172a" stroke="#818cf8" stroke-width="3"/>
+  <text x="270" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">Mirfa IBC</text>
+  <text x="270" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#cbd5e1">Software Engineering Intern</text>
+  <text x="270" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#5eead4">Mar 2026 · May 2026</text>
+  <circle cx="502" cy="42" r="6" fill="#0f172a" stroke="#818cf8" stroke-width="3"/>
+  <text x="496" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">Akto.io</text>
+  <text x="496" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#cbd5e1">Software Engineering Intern</text>
+  <text x="496" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#5eead4">Jul 2025 · Sep 2025</text>
+  <circle cx="728" cy="42" r="6" fill="#0f172a" stroke="#818cf8" stroke-width="3"/>
+  <text x="722" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">KLJ Resources</text>
+  <text x="722" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#cbd5e1">ML and AI Intern</text>
+  <text x="722" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#5eead4">Jul 2024 · Sep 2024</text>
+</svg>
